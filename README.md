@@ -1,3 +1,4 @@
+
 # 🍽 Smart Canteen Management System (Java Full Stack)
 
 Smart Canteen is a Java Full Stack web application designed to digitalize the traditional canteen ordering process.  
@@ -67,3 +68,7 @@ This project is built using **JSP, Servlets, JDBC, MySQL, and Apache Tomcat** fo
 4. Add MySQL Connector JAR inside `WEB-INF/lib`
 5. Run the project on **Apache Tomcat 9**
 6. Open browser:
+
+# SmartCanteen
+Smart Canteen is a Java Full Stack web application that allows students to order food online and helps admins manage menu items, users, and orders efficiently with daily sales reports. Built using JSP, Servlets, JDBC, MySQL, and Tomcat.
+
